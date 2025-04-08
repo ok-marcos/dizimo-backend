@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 21917d7d814c1dc825df09d3e4f06e24665561f7 Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1730157759 -0300	branch: Created from HEAD
+21917d7d814c1dc825df09d3e4f06e24665561f7 6cfa3007e7665e00a4925a38a56089194da9b854 Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1730157781 -0300	commit: Corrigido relações para dependentes
+6cfa3007e7665e00a4925a38a56089194da9b854 f8f93209040b3d0b0b5c5f390a50bada58835522 Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1730394266 -0300	commit: add: metodo para retornar pagamentos pelo titular_id
+f8f93209040b3d0b0b5c5f390a50bada58835522 44ed1efa15295bc7efc085be0f48943bd98d8bd3 marcospsilva <marcos.psilva@g.globo> 1743683999 -0300	commit: afdd
