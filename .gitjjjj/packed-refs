@@ -1,7 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-55b2c63ccf55309aa0de746cde4c48ff3ef4c9d2 refs/remotes/origin/LMIP-18
-7a65929098dc08f1ffc5486150eaf0d48a261c90 refs/remotes/origin/LMIP-20
-e04ddf94bb43cff772b47b9d96a104d9356dcb4d refs/remotes/origin/LMIP-6
-e9e02f267856f57c15e4e7e0b22bc84a2d1c9f32 refs/remotes/origin/LMIP-7
-57defb38f6c50cdc499762f070d6098c372467a2 refs/remotes/origin/feat/create_db_initial_configs
-e04ddf94bb43cff772b47b9d96a104d9356dcb4d refs/remotes/origin/master

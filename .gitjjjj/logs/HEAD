@@ -1,9 +1,0 @@
-0000000000000000000000000000000000000000 e04ddf94bb43cff772b47b9d96a104d9356dcb4d Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1728311064 -0300	clone: from https://github.com/LMI-Innovation/backend-dizimo.git
-e04ddf94bb43cff772b47b9d96a104d9356dcb4d e9e02f267856f57c15e4e7e0b22bc84a2d1c9f32 Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1728311087 -0300	checkout: moving from LMIP-6 to LMIP-7
-e9e02f267856f57c15e4e7e0b22bc84a2d1c9f32 e0b3819b3ce7efc99e9c566d2baf28be603319ef Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1728439472 -0300	commit: feat: criacao do payment vinculado com user_id e titular
-e0b3819b3ce7efc99e9c566d2baf28be603319ef 4371f238fd1d745799d576c5db884dbd9cda5bbf Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1728477597 -0300	pull: Fast-forward
-4371f238fd1d745799d576c5db884dbd9cda5bbf 21917d7d814c1dc825df09d3e4f06e24665561f7 Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1728521478 -0300	commit: feat: alteração de datetime para date no data_nascimento do titular
-21917d7d814c1dc825df09d3e4f06e24665561f7 21917d7d814c1dc825df09d3e4f06e24665561f7 Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1730157759 -0300	checkout: moving from LMIP-7 to LMIP-24
-21917d7d814c1dc825df09d3e4f06e24665561f7 6cfa3007e7665e00a4925a38a56089194da9b854 Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1730157781 -0300	commit: Corrigido relações para dependentes
-6cfa3007e7665e00a4925a38a56089194da9b854 f8f93209040b3d0b0b5c5f390a50bada58835522 Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1730394266 -0300	commit: add: metodo para retornar pagamentos pelo titular_id
-f8f93209040b3d0b0b5c5f390a50bada58835522 44ed1efa15295bc7efc085be0f48943bd98d8bd3 marcospsilva <marcos.psilva@g.globo> 1743683999 -0300	commit: afdd

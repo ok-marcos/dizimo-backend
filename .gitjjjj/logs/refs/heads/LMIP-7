@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 e9e02f267856f57c15e4e7e0b22bc84a2d1c9f32 Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1728311087 -0300	branch: Created from refs/remotes/origin/LMIP-7
-e9e02f267856f57c15e4e7e0b22bc84a2d1c9f32 e0b3819b3ce7efc99e9c566d2baf28be603319ef Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1728439472 -0300	commit: feat: criacao do payment vinculado com user_id e titular
-e0b3819b3ce7efc99e9c566d2baf28be603319ef 4371f238fd1d745799d576c5db884dbd9cda5bbf Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1728477597 -0300	pull: Fast-forward
-4371f238fd1d745799d576c5db884dbd9cda5bbf 21917d7d814c1dc825df09d3e4f06e24665561f7 Marcos Henrique <marcoshenrique@Marcoss-MacBook-Pro.local> 1728521478 -0300	commit: feat: alteração de datetime para date no data_nascimento do titular
